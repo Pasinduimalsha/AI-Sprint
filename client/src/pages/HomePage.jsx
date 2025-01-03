@@ -17,7 +17,7 @@ function HomePage() {
     setTimeout(() => {
       setResult({
         product: 'Product',
-        quantity: '804 Units'
+        quantity: '742 Units'
       });
       setLoading(false);
     }, 2000);
