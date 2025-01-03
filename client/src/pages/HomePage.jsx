@@ -16,8 +16,8 @@ function HomePage() {
     // Simulate backend process
     setTimeout(() => {
       setResult({
-        product: 'Carrots',
-        quantity: '20 kg'
+        product: 'Product',
+        quantity: '804 Units'
       });
       setLoading(false);
     }, 2000);
