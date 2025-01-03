@@ -32,7 +32,7 @@ function HomePage() {
           alt="AI Banner" 
           style={styles.bannerImage} 
         />
-        <h1 style={styles.title}>Restaurant Order System</h1>
+        <h1 style={styles.title}>Q-Bot</h1>
         <p style={styles.subtitle}>
           Easily track and manage your product requirements with AI assistance.
         </p>
